@@ -1,3 +1,34 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color: #EDB506;
+}
+h1 {
+    font-weight: 900;
+}
+h1.main-title {
+    text-align: center;
+}
+ul {
+    list-style-type: circle;
+}
+ul.title-list {
+    list-style-type: none;
+    text-align: center;
+}
+strong,
+.title-list {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.title-list {
+    color: #0508b9;
+}
+img.title-pic {
+    width: 600px;
+    height: auto;
+}
+.doggoBG {
+    background-image:url('images/dog.jpg');
+    background-repeat: no-repeat;
+    background-position: top center;
 }
